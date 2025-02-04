@@ -1,6 +1,6 @@
-- 👋 Hello. Nce to e-meet you.
-- 👀 I’m interested in everything .NET, APIs and LowCode
-- 🌱 I’m currently learning Blazor + .NET 8
+- 👋 Hello. Nice to e-meet you.
+- 👀 I’m interested in everything .NET, APIs and LowCode frameworks.
+- 🌱 I’m currently learning Blazor + .NET 9, Python and Java.
 - 💞️ I’m looking to collaborate on ERP systems and Payment gateways.
 - 📫 How to reach me?: E: onesmacben@gmail.com
 
