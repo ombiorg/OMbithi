@@ -1,4 +1,4 @@
-- 👋 Hello. Nice to e-meet you.
+- 👋 Hello there!.
 - 👀 I’m interested in everything .NET, APIs and LowCode frameworks.
 - 🌱 I’m currently learning Blazor + .NET 9, Python and Java.
 - 💞️ I’m looking to collaborate on ERP systems and Payment gateways.
